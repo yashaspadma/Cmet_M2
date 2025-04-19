@@ -1,0 +1,15 @@
+PyQt5
+requests
+Pillow
+moonrakerpy
+opencv-python 
+numpy 
+flask
+crcmod
+serial
+pyserial
+cmapy
+simple_pid
+pyyaml
+pyqtgraph
+pymodbus==2.5.3
